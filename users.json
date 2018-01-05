@@ -1,0 +1,26 @@
+[
+    {
+        "userid": 1,
+        "name": "Joe Jones",
+        "username": "joejones",
+        "password": "password1"
+    },
+    {
+        "userid": 2,
+        "name": "Billy Murphy",
+        "username": "billymurphy",
+        "password": "password2"
+    },
+    {
+        "userid": 3,
+        "name": "Sally Smith",
+        "username": "sallysmith",
+        "password": "password3"
+    },
+    {
+        "userid": 4,
+        "name": "Jody Jenkins",
+        "username": "jodyjenkins",
+        "password": "password4"
+    }
+]
